@@ -3,7 +3,7 @@
   <h3>VR/XR Developer from Russia <3</h3>
 </div>
 
-<!--
+<!-
 **Rud0lfi4/Rud0lfi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
