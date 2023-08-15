@@ -7,4 +7,4 @@
 ### About me
 -  I'm currently learning **C#, Unity VR/XR Developing**
 -  I Speak English🦅
--  Ypu can reach me by [Telegram](t.me/kiruechka), [email](mailto:saaleksandr823@gmail.com)
+-  You can reach me by [Telegram](t.me/kiruechka), [email](mailto:saaleksandr823@gmail.com)
