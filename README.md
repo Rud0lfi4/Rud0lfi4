@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center'>
+  <h1>Hi there 👋, I'm Alexander!
+  <h3>VR/XR Developer from Russia <3
+</div>
 
 <!--
 **Rud0lfi4/Rud0lfi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
